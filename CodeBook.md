@@ -4,7 +4,8 @@ The were two types of means, the first one is direct mean (found at the end of e
 descripes different means. All types were extracted in this data set.
 A total of 88 variables were extracted from the original data set of 563 variables.
 
-##The approach of this code bood is not to describe EACH and EVERY variable in the data set SEPARATELY, but to describe the different measurements and how the mean is calculated for each measurement. Other than that, the variable names are self-explanatory. There are 88 variables and it would be confusing to describe them separately. In addition there is no need for that since they follow similiar logic. 
+#The approach of this code bood is not to describe EACH and EVERY variable in the data set SEPARATELY, 
+but to describe the different measurements and how the mean is calculated for each measurement. Other than that, the variable names are self-explanatory. There are 88 variables and it would be confusing to describe them separately. In addition there is no need for that since they follow similiar logic. 
 
 
 #Feature selection
