@@ -49,4 +49,4 @@ MedgedData2<-MergedData[,c(1,2,selectedCols)]
 number5<-aggregate(MergedData2[,3:88],by=list(MergedData2$activity,MergedData2$subject),FUN=mean)
 
 #save the final data set in .txt file
-write.table(number5, file="final_data_summary.txt")
+write.table(number5, file="final_data_summary.txt",row.name=FALSE)
